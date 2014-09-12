@@ -1,5 +1,5 @@
-title:            Steven_Xu's Blog
-description:      Welcome to steven_Xu's blog.
+title:            Site Title
+description:      Describe your website here.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -10,8 +10,8 @@ url:              http://jordandandan.github.io
 owner:
   name:           steven_Xu
   avatar:         avatar.jpg
-  bio:            "°®ÀºÇò£¬°®ÒôÀÖ£¬°®±à³Ì£¬×î°®ÃÃ×Ó£¡"
-  email:          jiayixu@tju.edu.cn
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
