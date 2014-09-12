@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
-tags: [sample post]
+title: 第一篇日志
+description: "My first post"
+modified: 2014-09-12
+tags: [post]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
@@ -12,92 +12,58 @@ comments: true
 share: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+### Jekyll是个有趣的东西
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
+**今天**，根据大神的指示，做了第一个个人的博客，希望能够记录我今后两年学习中的点点滴滴。博客功能还不完善，需要进一步学习有关
+jekyll的知识，希望越做越好！
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .pull-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+在这里为了提升博客的**逼格**，特别选了一首诗。。 
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+### Blockquotes    
+>   无题
+    
+    我终于明白
+　　世间有一种思绪
+　　无法用言语形容
+　　粗犷而忧伤
 
-### Blockquotes
+　　回声的千结百绕
+　　而守候的是
+　　执着
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+　　一如月光下的高原
+　　一抹淡淡痴痴的笑
 
-## List Types
+　　笑那浮华落尽 月色如洗
+　　笑那悄然而逝 飞花万盏
 
-### Ordered Lists
+　　谁是那轻轻颤动的百合
+　　在你的清辉下亘古不变
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+　　谁有那灼灼热烈的双眸
+　　在你的颔首中攀援而上
 
-### Unordered Lists
+　　遥远的忧伤
+　　穿过千山万水
 
-* Item one
-* Item two
-* Item three
+　　纵使高原上的风
+　　吹不散
+　　执着的背影
 
-## Tables
+　　纵使清晨前的霜
+　　融不化
+　　心头的温热
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+　　你静守在月下
+　　悄悄地来
+　　悄悄地走
 
-## Code Snippets
 
-Syntax highlighting via Pygments
+## 本人csdn博客，虽然里面没什么东西，但是欢迎大家交流。
 
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
 
-Non Pygments code example
 
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
+<div markdown="0"><a href="http://blog.csdn.net/jordandandan" class="btn">Csdn blog</a></div>
 
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
